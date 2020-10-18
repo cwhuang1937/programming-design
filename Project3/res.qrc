@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>picture/bullet1.png</file>
+        <file>picture/enemy1.png</file>
+        <file>picture/player.png</file>
+        <file>picture/bomb.png</file>
+        <file>picture/background.jpg</file>
+        <file>picture/bullet_e2.png</file>
+        <file>picture/enemy2.png</file>
+        <file>picture/bullet_e1.png</file>
+        <file>picture/big_fire.png</file>
+        <file>picture/boss.png</file>
+        <file>picture/tank.png</file>
+        <file>picture/player_inv.png</file>
+        <file>picture/tool1.png</file>
+        <file>picture/tool2.png</file>
+        <file>picture/bomb_tool.png</file>
+        <file>picture/player_skill.png</file>
+        <file>picture/background_end.jpg</file>
+    </qresource>
+</RCC>
